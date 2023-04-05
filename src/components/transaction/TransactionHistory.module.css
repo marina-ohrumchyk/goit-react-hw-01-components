@@ -1,0 +1,12 @@
+.transaction{
+    width: 50%;
+    border: 1px solid black;
+}
+
+.td{
+    background-color: aliceblue;
+}
+
+.thead{
+    background-color: aqua;
+}
